@@ -1,0 +1,243 @@
+CohortID,CourseID,CohortName,StartDate,PlannedEndDate,TeacherName,DeliveryFormat,PlannedSeats,ActualEnrollments,CohortStatus
+COH00001,CRS0001,AI Automation #01 2024-01,2024-01-17,2024-04-10,Tadeusz Мельникова,Hybrid,50,4,Completed
+COH00002,CRS0001,AI Automation #02 2024-03,2024-03-13,2024-06-05,Tadeusz Мельникова,Hybrid,50,49,Completed
+COH00003,CRS0001,AI Automation #03 2024-05,2024-05-08,2024-07-31,Tadeusz Мельникова,Hybrid,50,60,Completed
+COH00004,CRS0001,AI Automation #04 2024-07,2024-07-03,2024-09-25,Tadeusz Мельникова,Hybrid,50,54,Completed
+COH00005,CRS0001,AI Automation #05 2024-08,2024-08-28,2024-11-20,Tadeusz Мельникова,Hybrid,50,37,Completed
+COH00006,CRS0001,AI Automation #06 2024-10,2024-10-23,2025-01-15,Tadeusz Мельникова,Hybrid,50,35,Completed
+COH00007,CRS0001,AI Automation #07 2024-12,2024-12-18,2025-03-12,Tadeusz Мельникова,Hybrid,50,54,Completed
+COH00008,CRS0001,AI Automation #08 2025-02,2025-02-12,2025-05-07,Tadeusz Мельникова,Hybrid,50,66,Completed
+COH00009,CRS0001,AI Automation #09 2025-04,2025-04-09,2025-07-02,Tadeusz Мельникова,Hybrid,50,51,Completed
+COH00010,CRS0001,AI Automation #10 2025-06,2025-06-04,2025-08-27,Tadeusz Мельникова,Hybrid,50,53,Completed
+COH00011,CRS0001,AI Automation #11 2025-07,2025-07-30,2025-10-22,Tadeusz Мельникова,Hybrid,50,39,Completed
+COH00012,CRS0001,AI Automation #12 2025-09,2025-09-24,2025-12-17,Tadeusz Мельникова,Hybrid,50,26,Completed
+COH00013,CRS0001,AI Automation #13 2025-11,2025-11-19,2026-02-11,Tadeusz Мельникова,Hybrid,50,91,In Progress
+COH00014,CRS0002,Data Analytics #01 2024-01,2024-01-18,2024-03-21,Андрій Михалюк,Offline,59,0,Completed
+COH00015,CRS0002,Data Analytics #02 2024-02,2024-02-29,2024-05-02,Андрій Михалюк,Offline,59,32,Completed
+COH00016,CRS0002,Data Analytics #03 2024-04,2024-04-11,2024-06-13,Андрій Михалюк,Offline,59,41,Completed
+COH00017,CRS0002,Data Analytics #04 2024-05,2024-05-23,2024-07-25,Андрій Михалюк,Offline,59,30,Completed
+COH00018,CRS0002,Data Analytics #05 2024-07,2024-07-04,2024-09-05,Андрій Михалюк,Offline,59,23,Completed
+COH00019,CRS0002,Data Analytics #06 2024-08,2024-08-15,2024-10-17,Андрій Михалюк,Offline,59,17,Completed
+COH00020,CRS0002,Data Analytics #07 2024-09,2024-09-26,2024-11-28,Андрій Михалюк,Offline,59,16,Completed
+COH00021,CRS0002,Data Analytics #08 2024-11,2024-11-07,2025-01-09,Андрій Михалюк,Offline,59,21,Completed
+COH00022,CRS0002,Data Analytics #09 2024-12,2024-12-19,2025-02-20,Андрій Михалюк,Offline,59,29,Completed
+COH00023,CRS0002,Data Analytics #10 2025-01,2025-01-30,2025-04-03,Андрій Михалюк,Offline,59,35,Completed
+COH00024,CRS0002,Data Analytics #11 2025-03,2025-03-13,2025-05-15,Андрій Михалюк,Offline,59,42,Completed
+COH00025,CRS0002,Data Analytics #12 2025-04,2025-04-24,2025-06-26,Андрій Михалюк,Offline,59,29,Completed
+COH00026,CRS0002,Data Analytics #13 2025-06,2025-06-05,2025-08-07,Андрій Михалюк,Offline,59,25,Completed
+COH00027,CRS0002,Data Analytics #14 2025-07,2025-07-17,2025-09-18,Андрій Михалюк,Offline,59,21,Completed
+COH00028,CRS0002,Data Analytics #15 2025-08,2025-08-28,2025-10-30,Андрій Михалюк,Offline,59,25,Completed
+COH00029,CRS0002,Data Analytics #16 2025-10,2025-10-09,2025-12-11,Андрій Михалюк,Offline,59,23,Completed
+COH00030,CRS0002,Data Analytics #17 2025-11,2025-11-20,2026-01-22,Андрій Михалюк,Offline,59,64,In Progress
+COH00031,CRS0003,DevOps #01 2024-07,2024-07-14,2024-12-08,Julian Негода,Offline,117,0,Cancelled
+COH00032,CRS0003,DevOps #02 2024-09,2024-09-15,2025-02-09,Julian Негода,Offline,117,16,Completed
+COH00033,CRS0003,DevOps #03 2024-11,2024-11-17,2025-04-13,Julian Негода,Offline,117,65,Completed
+COH00034,CRS0003,DevOps #04 2025-01,2025-01-19,2025-06-15,Julian Негода,Offline,117,68,Completed
+COH00035,CRS0003,DevOps #05 2025-03,2025-03-23,2025-08-17,Julian Негода,Offline,117,64,Completed
+COH00036,CRS0003,DevOps #06 2025-05,2025-05-25,2025-10-19,Julian Негода,Offline,117,40,Completed
+COH00037,CRS0003,DevOps #07 2025-07,2025-07-27,2025-12-21,Julian Негода,Offline,117,40,Completed
+COH00038,CRS0003,DevOps #08 2025-09,2025-09-28,2026-02-22,Julian Негода,Offline,117,28,In Progress
+COH00039,CRS0003,DevOps #09 2025-11,2025-11-30,2026-04-26,Julian Негода,Offline,117,111,In Progress
+COH00040,CRS0004,Excel #01 2024-04,2024-04-10,2024-07-10,Аліна Andryszczyk,Offline,77,0,Completed
+COH00041,CRS0004,Excel #02 2024-06,2024-06-12,2024-09-11,Аліна Andryszczyk,Offline,77,23,Completed
+COH00042,CRS0004,Excel #03 2024-08,2024-08-14,2024-11-13,Аліна Andryszczyk,Offline,77,20,Completed
+COH00043,CRS0004,Excel #04 2024-10,2024-10-16,2025-01-15,Аліна Andryszczyk,Offline,77,27,Completed
+COH00044,CRS0004,Excel #05 2024-12,2024-12-18,2025-03-19,Аліна Andryszczyk,Offline,77,43,Completed
+COH00045,CRS0004,Excel #06 2025-02,2025-02-19,2025-05-21,Аліна Andryszczyk,Offline,77,47,Completed
+COH00046,CRS0004,Excel #07 2025-04,2025-04-23,2025-07-23,Аліна Andryszczyk,Offline,77,42,Completed
+COH00047,CRS0004,Excel #08 2025-06,2025-06-25,2025-09-24,Аліна Andryszczyk,Offline,77,32,Completed
+COH00048,CRS0004,Excel #09 2025-08,2025-08-27,2025-11-26,Аліна Andryszczyk,Offline,77,22,Completed
+COH00049,CRS0004,Excel #10 2025-10,2025-10-29,2026-01-28,Аліна Andryszczyk,Offline,77,36,In Progress
+COH00050,CRS0004,Excel #11 2025-12,2025-12-31,2026-04-01,Аліна Andryszczyk,Offline,77,47,In Progress
+COH00051,CRS0005,Front-End #01 2024-01,2024-01-02,2024-02-13,Фирс Кононов,Online,26,0,Completed
+COH00052,CRS0005,Front-End #02 2024-02,2024-02-20,2024-04-02,Фирс Кононов,Online,26,65,Completed
+COH00053,CRS0005,Front-End #03 2024-04,2024-04-09,2024-05-21,Фирс Кононов,Online,26,92,Completed
+COH00054,CRS0005,Front-End #04 2024-05,2024-05-28,2024-07-09,Фирс Кононов,Online,26,85,Completed
+COH00055,CRS0005,Front-End #05 2024-07,2024-07-16,2024-08-27,Фирс Кононов,Online,26,47,Completed
+COH00056,CRS0005,Front-End #06 2024-09,2024-09-03,2024-10-15,Фирс Кононов,Online,26,45,Completed
+COH00057,CRS0005,Front-End #07 2024-10,2024-10-22,2024-12-03,Фирс Кононов,Online,26,54,Completed
+COH00058,CRS0005,Front-End #08 2024-12,2024-12-10,2025-01-21,Фирс Кононов,Online,26,81,Completed
+COH00059,CRS0005,Front-End #09 2025-01,2025-01-28,2025-03-11,Фирс Кононов,Online,26,96,Completed
+COH00060,CRS0005,Front-End #10 2025-03,2025-03-18,2025-04-29,Фирс Кононов,Online,26,110,Completed
+COH00061,CRS0005,Front-End #11 2025-05,2025-05-06,2025-06-17,Фирс Кононов,Online,26,73,Completed
+COH00062,CRS0005,Front-End #12 2025-06,2025-06-24,2025-08-05,Фирс Кононов,Online,26,55,Completed
+COH00063,CRS0005,Front-End #13 2025-08,2025-08-12,2025-09-23,Фирс Кононов,Online,26,42,Completed
+COH00064,CRS0005,Front-End #14 2025-09,2025-09-30,2025-11-11,Фирс Кононов,Online,26,46,Completed
+COH00065,CRS0005,Front-End #15 2025-11,2025-11-18,2025-12-30,Фирс Кононов,Online,26,188,Completed
+COH00066,CRS0006,FullStack Java #01 2024-01,2024-01-06,2024-03-16,Donna Tabak,Online,25,0,Cancelled
+COH00067,CRS0006,FullStack Java #02 2024-03,2024-03-02,2024-05-11,Donna Tabak,Online,25,32,Completed
+COH00068,CRS0006,FullStack Java #03 2024-04,2024-04-27,2024-07-06,Donna Tabak,Online,25,51,Completed
+COH00069,CRS0006,FullStack Java #04 2024-06,2024-06-22,2024-08-31,Donna Tabak,Online,25,31,Completed
+COH00070,CRS0006,FullStack Java #05 2024-08,2024-08-17,2024-10-26,Donna Tabak,Online,25,23,Completed
+COH00071,CRS0006,FullStack Java #06 2024-10,2024-10-12,2024-12-21,Donna Tabak,Online,25,31,Completed
+COH00072,CRS0006,FullStack Java #07 2024-12,2024-12-07,2025-02-15,Donna Tabak,Online,25,31,Completed
+COH00073,CRS0006,FullStack Java #08 2025-02,2025-02-01,2025-04-12,Donna Tabak,Online,25,42,Completed
+COH00074,CRS0006,FullStack Java #09 2025-03,2025-03-29,2025-06-07,Donna Tabak,Online,25,45,Completed
+COH00075,CRS0006,FullStack Java #10 2025-05,2025-05-24,2025-08-02,Donna Tabak,Online,25,37,Completed
+COH00076,CRS0006,FullStack Java #11 2025-07,2025-07-19,2025-09-27,Donna Tabak,Online,25,28,Completed
+COH00077,CRS0006,FullStack Java #12 2025-09,2025-09-13,2025-11-22,Donna Tabak,Online,25,21,Completed
+COH00078,CRS0006,FullStack Java #13 2025-11,2025-11-08,2026-01-17,Donna Tabak,Online,25,93,In Progress
+COH00079,CRS0007,FullStack Python #01 2024-01,2024-01-02,2024-07-09,Bailey Волков,Online,61,0,Completed
+COH00080,CRS0007,FullStack Python #02 2024-03,2024-03-12,2024-09-17,Bailey Волков,Online,61,22,Completed
+COH00081,CRS0007,FullStack Python #03 2024-05,2024-05-21,2024-11-26,Bailey Волков,Online,61,40,Completed
+COH00082,CRS0007,FullStack Python #04 2024-07,2024-07-30,2025-02-04,Bailey Волков,Online,61,22,Completed
+COH00083,CRS0007,FullStack Python #05 2024-10,2024-10-08,2025-04-15,Bailey Волков,Online,61,14,Completed
+COH00084,CRS0007,FullStack Python #06 2024-12,2024-12-17,2025-06-24,Bailey Волков,Online,61,17,Completed
+COH00085,CRS0007,FullStack Python #07 2025-02,2025-02-25,2025-09-02,Bailey Волков,Online,61,30,Completed
+COH00086,CRS0007,FullStack Python #08 2025-05,2025-05-06,2025-11-11,Bailey Волков,Online,61,17,Completed
+COH00087,CRS0007,FullStack Python #09 2025-07,2025-07-15,2026-01-20,Bailey Волков,Online,61,20,In Progress
+COH00088,CRS0007,FullStack Python #10 2025-09,2025-09-23,2026-03-31,Bailey Волков,Online,61,10,In Progress
+COH00089,CRS0007,FullStack Python #11 2025-12,2025-12-02,2026-06-09,Bailey Волков,Online,61,44,In Progress
+COH00090,CRS0008,IT Start (Free) #01 2024-01,2024-01-14,2024-02-04,Andrew Ершов,Online,108,8,Cancelled
+COH00091,CRS0008,IT Start (Free) #02 2024-02,2024-02-11,2024-03-03,Andrew Ершов,Online,108,63,Completed
+COH00092,CRS0008,IT Start (Free) #03 2024-03,2024-03-10,2024-03-31,Andrew Ершов,Online,108,115,Completed
+COH00093,CRS0008,IT Start (Free) #04 2024-04,2024-04-07,2024-04-28,Andrew Ершов,Online,108,100,Completed
+COH00094,CRS0008,IT Start (Free) #05 2024-05,2024-05-05,2024-05-26,Andrew Ершов,Online,108,100,Completed
+COH00095,CRS0008,IT Start (Free) #06 2024-06,2024-06-02,2024-06-23,Andrew Ершов,Online,108,73,Completed
+COH00096,CRS0008,IT Start (Free) #07 2024-06,2024-06-30,2024-07-21,Andrew Ершов,Online,108,67,Completed
+COH00097,CRS0008,IT Start (Free) #08 2024-07,2024-07-28,2024-08-18,Andrew Ершов,Online,108,64,Completed
+COH00098,CRS0008,IT Start (Free) #09 2024-08,2024-08-25,2024-09-15,Andrew Ершов,Online,108,55,Completed
+COH00099,CRS0008,IT Start (Free) #10 2024-09,2024-09-22,2024-10-13,Andrew Ершов,Online,108,54,Completed
+COH00100,CRS0008,IT Start (Free) #11 2024-10,2024-10-20,2024-11-10,Andrew Ершов,Online,108,85,Completed
+COH00101,CRS0008,IT Start (Free) #12 2024-11,2024-11-17,2024-12-08,Andrew Ершов,Online,108,83,Completed
+COH00102,CRS0008,IT Start (Free) #13 2024-12,2024-12-15,2025-01-05,Andrew Ершов,Online,108,97,Completed
+COH00103,CRS0008,IT Start (Free) #14 2025-01,2025-01-12,2025-02-02,Andrew Ершов,Online,108,105,Completed
+COH00104,CRS0008,IT Start (Free) #15 2025-02,2025-02-09,2025-03-02,Andrew Ершов,Online,108,118,Completed
+COH00105,CRS0008,IT Start (Free) #16 2025-03,2025-03-09,2025-03-30,Andrew Ершов,Online,108,100,Completed
+COH00106,CRS0008,IT Start (Free) #17 2025-04,2025-04-06,2025-04-27,Andrew Ершов,Online,108,88,Completed
+COH00107,CRS0008,IT Start (Free) #18 2025-05,2025-05-04,2025-05-25,Andrew Ершов,Online,108,56,Completed
+COH00108,CRS0008,IT Start (Free) #19 2025-06,2025-06-01,2025-06-22,Andrew Ершов,Online,108,67,Completed
+COH00109,CRS0008,IT Start (Free) #20 2025-06,2025-06-29,2025-07-20,Andrew Ершов,Online,108,83,Completed
+COH00110,CRS0008,IT Start (Free) #21 2025-07,2025-07-27,2025-08-17,Andrew Ершов,Online,108,45,Completed
+COH00111,CRS0008,IT Start (Free) #22 2025-08,2025-08-24,2025-09-14,Andrew Ершов,Online,108,51,Completed
+COH00112,CRS0008,IT Start (Free) #23 2025-09,2025-09-21,2025-10-12,Andrew Ершов,Online,108,47,Completed
+COH00113,CRS0008,IT Start (Free) #24 2025-10,2025-10-19,2025-11-09,Andrew Ершов,Online,108,82,Completed
+COH00114,CRS0008,IT Start (Free) #25 2025-11,2025-11-16,2025-12-07,Andrew Ершов,Online,108,99,Completed
+COH00115,CRS0008,IT Start (Free) #26 2025-12,2025-12-14,2026-01-04,Andrew Ершов,Online,108,174,In Progress
+COH00116,CRS0009,Java #01 2024-03,2024-03-31,2024-10-27,Давид Абрагамовська,Hybrid,39,0,Cancelled
+COH00117,CRS0009,Java #02 2024-06,2024-06-09,2025-01-05,Давид Абрагамовська,Hybrid,39,11,Completed
+COH00118,CRS0009,Java #03 2024-08,2024-08-18,2025-03-16,Давид Абрагамовська,Hybrid,39,16,Completed
+COH00119,CRS0009,Java #04 2024-10,2024-10-27,2025-05-25,Давид Абрагамовська,Hybrid,39,20,Completed
+COH00120,CRS0009,Java #05 2025-01,2025-01-05,2025-08-03,Давид Абрагамовська,Hybrid,39,24,Completed
+COH00121,CRS0009,Java #06 2025-03,2025-03-16,2025-10-12,Давид Абрагамовська,Hybrid,39,28,Completed
+COH00122,CRS0009,Java #07 2025-05,2025-05-25,2025-12-21,Давид Абрагамовська,Hybrid,39,16,Completed
+COH00123,CRS0009,Java #08 2025-08,2025-08-03,2026-03-01,Давид Абрагамовська,Hybrid,39,14,In Progress
+COH00124,CRS0009,Java #09 2025-10,2025-10-12,2026-05-10,Давид Абрагамовська,Hybrid,39,9,In Progress
+COH00125,CRS0009,Java #10 2025-12,2025-12-21,2026-07-19,Давид Абрагамовська,Hybrid,39,34,In Progress
+COH00126,CRS0010,Python #01 2024-01,2024-01-10,2024-07-31,Варфоломей Арсенич,Offline,103,0,Completed
+COH00127,CRS0010,Python #02 2024-03,2024-03-06,2024-09-25,Варфоломей Арсенич,Offline,103,25,Completed
+COH00128,CRS0010,Python #03 2024-05,2024-05-01,2024-11-20,Варфоломей Арсенич,Offline,103,44,Completed
+COH00129,CRS0010,Python #04 2024-06,2024-06-26,2025-01-15,Варфоломей Арсенич,Offline,103,38,Completed
+COH00130,CRS0010,Python #05 2024-08,2024-08-21,2025-03-12,Варфоломей Арсенич,Offline,103,15,Cancelled
+COH00131,CRS0010,Python #06 2024-10,2024-10-16,2025-05-07,Варфоломей Арсенич,Offline,103,24,Completed
+COH00132,CRS0010,Python #07 2024-12,2024-12-11,2025-07-02,Варфоломей Арсенич,Offline,103,40,Completed
+COH00133,CRS0010,Python #08 2025-02,2025-02-05,2025-08-27,Варфоломей Арсенич,Offline,103,46,Completed
+COH00134,CRS0010,Python #09 2025-04,2025-04-02,2025-10-22,Варфоломей Арсенич,Offline,103,39,Completed
+COH00135,CRS0010,Python #10 2025-05,2025-05-28,2025-12-17,Варфоломей Арсенич,Offline,103,32,Completed
+COH00136,CRS0010,Python #11 2025-07,2025-07-23,2026-02-11,Варфоломей Арсенич,Offline,103,29,In Progress
+COH00137,CRS0010,Python #12 2025-09,2025-09-17,2026-04-08,Варфоломей Арсенич,Offline,103,24,In Progress
+COH00138,CRS0010,Python #13 2025-11,2025-11-12,2026-06-03,Варфоломей Арсенич,Offline,103,66,In Progress
+COH00139,CRS0011,QA Automation #01 2024-01,2024-01-08,2024-04-08,Aurelia Ващенко,Hybrid,79,0,Cancelled
+COH00140,CRS0011,QA Automation #02 2024-03,2024-03-11,2024-06-10,Aurelia Ващенко,Hybrid,79,47,Completed
+COH00141,CRS0011,QA Automation #03 2024-05,2024-05-13,2024-08-12,Aurelia Ващенко,Hybrid,79,44,Completed
+COH00142,CRS0011,QA Automation #04 2024-07,2024-07-15,2024-10-14,Aurelia Ващенко,Hybrid,79,25,Completed
+COH00143,CRS0011,QA Automation #05 2024-09,2024-09-16,2024-12-16,Aurelia Ващенко,Hybrid,79,19,Completed
+COH00144,CRS0011,QA Automation #06 2024-11,2024-11-18,2025-02-17,Aurelia Ващенко,Hybrid,79,34,Completed
+COH00145,CRS0011,QA Automation #07 2025-01,2025-01-20,2025-04-21,Aurelia Ващенко,Hybrid,79,37,Completed
+COH00146,CRS0011,QA Automation #08 2025-03,2025-03-24,2025-06-23,Aurelia Ващенко,Hybrid,79,53,Completed
+COH00147,CRS0011,QA Automation #09 2025-05,2025-05-26,2025-08-25,Aurelia Ващенко,Hybrid,79,30,Completed
+COH00148,CRS0011,QA Automation #10 2025-07,2025-07-28,2025-10-27,Aurelia Ващенко,Hybrid,79,17,Completed
+COH00149,CRS0011,QA Automation #11 2025-09,2025-09-29,2025-12-29,Aurelia Ващенко,Hybrid,79,30,Completed
+COH00150,CRS0011,QA Automation #12 2025-12,2025-12-01,2026-03-02,Aurelia Ващенко,Hybrid,79,85,In Progress
+COH00151,CRS0012,QA #01 2024-01,2024-01-03,2024-06-12,Mariusz Турова,Online,71,0,Completed
+COH00152,CRS0012,QA #02 2024-02,2024-02-14,2024-07-24,Mariusz Турова,Online,71,42,Completed
+COH00153,CRS0012,QA #03 2024-03,2024-03-27,2024-09-04,Mariusz Турова,Online,71,84,Completed
+COH00154,CRS0012,QA #04 2024-05,2024-05-08,2024-10-16,Mariusz Турова,Online,71,82,Completed
+COH00155,CRS0012,QA #05 2024-06,2024-06-19,2024-11-27,Mariusz Турова,Online,71,57,Completed
+COH00156,CRS0012,QA #06 2024-07,2024-07-31,2025-01-08,Mariusz Турова,Online,71,43,Completed
+COH00157,CRS0012,QA #07 2024-09,2024-09-11,2025-02-19,Mariusz Турова,Online,71,40,Completed
+COH00158,CRS0012,QA #08 2024-10,2024-10-23,2025-04-02,Mariusz Турова,Online,71,59,Completed
+COH00159,CRS0012,QA #09 2024-12,2024-12-04,2025-05-14,Mariusz Турова,Online,71,76,Completed
+COH00160,CRS0012,QA #10 2025-01,2025-01-15,2025-06-25,Mariusz Турова,Online,71,92,Completed
+COH00161,CRS0012,QA #11 2025-02,2025-02-26,2025-08-06,Mariusz Турова,Online,71,90,Completed
+COH00162,CRS0012,QA #12 2025-04,2025-04-09,2025-09-17,Mariusz Турова,Online,71,55,Completed
+COH00163,CRS0012,QA #13 2025-05,2025-05-21,2025-10-29,Mariusz Турова,Online,71,59,Completed
+COH00164,CRS0012,QA #14 2025-07,2025-07-02,2025-12-10,Mariusz Турова,Online,71,56,Completed
+COH00165,CRS0012,QA #15 2025-08,2025-08-13,2026-01-21,Mariusz Турова,Online,71,35,In Progress
+COH00166,CRS0012,QA #16 2025-09,2025-09-24,2026-03-04,Mariusz Турова,Online,71,34,In Progress
+COH00167,CRS0012,QA #17 2025-11,2025-11-05,2026-04-15,Mariusz Турова,Online,71,69,In Progress
+COH00168,CRS0012,QA #18 2025-12,2025-12-17,2026-05-27,Mariusz Турова,Online,71,108,In Progress
+COH00169,CRS0013,Web Design #01 2024-01,2024-01-08,2024-03-18,Клавдія Смик,Online,91,0,Completed
+COH00170,CRS0013,Web Design #02 2024-02,2024-02-26,2024-05-06,Клавдія Смик,Online,91,33,Completed
+COH00171,CRS0013,Web Design #03 2024-04,2024-04-15,2024-06-24,Клавдія Смик,Online,91,31,Completed
+COH00172,CRS0013,Web Design #04 2024-06,2024-06-03,2024-08-12,Клавдія Смик,Online,91,34,Completed
+COH00173,CRS0013,Web Design #05 2024-07,2024-07-22,2024-09-30,Клавдія Смик,Online,91,22,Completed
+COH00174,CRS0013,Web Design #06 2024-09,2024-09-09,2024-11-18,Клавдія Смик,Online,91,15,Completed
+COH00175,CRS0013,Web Design #07 2024-10,2024-10-28,2025-01-06,Клавдія Смик,Online,91,31,Completed
+COH00176,CRS0013,Web Design #08 2024-12,2024-12-16,2025-02-24,Клавдія Смик,Online,91,33,Completed
+COH00177,CRS0013,Web Design #09 2025-02,2025-02-03,2025-04-14,Клавдія Смик,Online,91,43,Completed
+COH00178,CRS0013,Web Design #10 2025-03,2025-03-24,2025-06-02,Клавдія Смик,Online,91,32,Completed
+COH00179,CRS0013,Web Design #11 2025-05,2025-05-12,2025-07-21,Клавдія Смик,Online,91,28,Completed
+COH00180,CRS0013,Web Design #12 2025-06,2025-06-30,2025-09-08,Клавдія Смик,Online,91,25,Completed
+COH00181,CRS0013,Web Design #13 2025-08,2025-08-18,2025-10-27,Клавдія Смик,Online,91,17,Completed
+COH00182,CRS0013,Web Design #14 2025-10,2025-10-06,2025-12-15,Клавдія Смик,Online,91,20,Completed
+COH00183,CRS0013,Web Design #15 2025-11,2025-11-24,2026-02-02,Клавдія Смик,Online,91,78,In Progress
+COH00184,CRS0014,AI Automation Bundle #01 2024-01,2024-01-17,2024-05-08,Curtis Їжак,Online,54,3,Completed
+COH00185,CRS0014,AI Automation Bundle #02 2024-03,2024-03-13,2024-07-03,Curtis Їжак,Online,54,83,Completed
+COH00186,CRS0014,AI Automation Bundle #03 2024-05,2024-05-08,2024-08-28,Curtis Їжак,Online,54,96,Completed
+COH00187,CRS0014,AI Automation Bundle #04 2024-07,2024-07-03,2024-10-23,Curtis Їжак,Online,54,69,Completed
+COH00188,CRS0014,AI Automation Bundle #05 2024-08,2024-08-28,2024-12-18,Curtis Їжак,Online,54,44,Completed
+COH00189,CRS0014,AI Automation Bundle #06 2024-10,2024-10-23,2025-02-12,Curtis Їжак,Online,54,68,Completed
+COH00190,CRS0014,AI Automation Bundle #07 2024-12,2024-12-18,2025-04-09,Curtis Їжак,Online,54,81,Completed
+COH00191,CRS0014,AI Automation Bundle #08 2025-02,2025-02-12,2025-06-04,Curtis Їжак,Online,54,97,Completed
+COH00192,CRS0014,AI Automation Bundle #09 2025-04,2025-04-09,2025-07-30,Curtis Їжак,Online,54,102,Completed
+COH00193,CRS0014,AI Automation Bundle #10 2025-06,2025-06-04,2025-09-24,Curtis Їжак,Online,54,66,Completed
+COH00194,CRS0014,AI Automation Bundle #11 2025-07,2025-07-30,2025-11-19,Curtis Їжак,Online,54,52,Completed
+COH00195,CRS0014,AI Automation Bundle #12 2025-09,2025-09-24,2026-01-14,Curtis Їжак,Online,54,46,In Progress
+COH00196,CRS0014,AI Automation Bundle #13 2025-11,2025-11-19,2026-03-11,Curtis Їжак,Online,54,149,In Progress
+COH00197,CRS0015,Data Analytics (Free Intro) #01 2024-01,2024-01-15,2024-02-05,Michał Haas,Online,85,5,Completed
+COH00198,CRS0015,Data Analytics (Free Intro) #02 2024-02,2024-02-12,2024-03-04,Michał Haas,Online,85,81,Completed
+COH00199,CRS0015,Data Analytics (Free Intro) #03 2024-03,2024-03-11,2024-04-01,Michał Haas,Online,85,114,Completed
+COH00200,CRS0015,Data Analytics (Free Intro) #04 2024-04,2024-04-08,2024-04-29,Michał Haas,Online,85,126,Completed
+COH00201,CRS0015,Data Analytics (Free Intro) #05 2024-05,2024-05-06,2024-05-27,Michał Haas,Online,85,101,Completed
+COH00202,CRS0015,Data Analytics (Free Intro) #06 2024-06,2024-06-03,2024-06-24,Michał Haas,Online,85,82,Completed
+COH00203,CRS0015,Data Analytics (Free Intro) #07 2024-07,2024-07-01,2024-07-22,Michał Haas,Online,85,59,Completed
+COH00204,CRS0015,Data Analytics (Free Intro) #08 2024-07,2024-07-29,2024-08-19,Michał Haas,Online,85,67,Completed
+COH00205,CRS0015,Data Analytics (Free Intro) #09 2024-08,2024-08-26,2024-09-16,Michał Haas,Online,85,63,Completed
+COH00206,CRS0015,Data Analytics (Free Intro) #10 2024-09,2024-09-23,2024-10-14,Michał Haas,Online,85,62,Completed
+COH00207,CRS0015,Data Analytics (Free Intro) #11 2024-10,2024-10-21,2024-11-11,Michał Haas,Online,85,89,Completed
+COH00208,CRS0015,Data Analytics (Free Intro) #12 2024-11,2024-11-18,2024-12-09,Michał Haas,Online,85,101,Completed
+COH00209,CRS0015,Data Analytics (Free Intro) #13 2024-12,2024-12-16,2025-01-06,Michał Haas,Online,85,87,Completed
+COH00210,CRS0015,Data Analytics (Free Intro) #14 2025-01,2025-01-13,2025-02-03,Michał Haas,Online,85,89,Completed
+COH00211,CRS0015,Data Analytics (Free Intro) #15 2025-02,2025-02-10,2025-03-03,Michał Haas,Online,85,109,Completed
+COH00212,CRS0015,Data Analytics (Free Intro) #16 2025-03,2025-03-10,2025-03-31,Michał Haas,Online,85,112,Completed
+COH00213,CRS0015,Data Analytics (Free Intro) #17 2025-04,2025-04-07,2025-04-28,Michał Haas,Online,85,84,Completed
+COH00214,CRS0015,Data Analytics (Free Intro) #18 2025-05,2025-05-05,2025-05-26,Michał Haas,Online,85,84,Completed
+COH00215,CRS0015,Data Analytics (Free Intro) #19 2025-06,2025-06-02,2025-06-23,Michał Haas,Online,85,90,Completed
+COH00216,CRS0015,Data Analytics (Free Intro) #20 2025-06,2025-06-30,2025-07-21,Michał Haas,Online,85,52,Completed
+COH00217,CRS0015,Data Analytics (Free Intro) #21 2025-07,2025-07-28,2025-08-18,Michał Haas,Online,85,53,Completed
+COH00218,CRS0015,Data Analytics (Free Intro) #22 2025-08,2025-08-25,2025-09-15,Michał Haas,Online,85,56,Completed
+COH00219,CRS0015,Data Analytics (Free Intro) #23 2025-09,2025-09-22,2025-10-13,Michał Haas,Online,85,57,Completed
+COH00220,CRS0015,Data Analytics (Free Intro) #24 2025-10,2025-10-20,2025-11-10,Michał Haas,Online,85,94,Completed
+COH00221,CRS0015,Data Analytics (Free Intro) #25 2025-11,2025-11-17,2025-12-08,Michał Haas,Online,85,86,Completed
+COH00222,CRS0015,Data Analytics (Free Intro) #26 2025-12,2025-12-15,2026-01-05,Michał Haas,Online,85,180,In Progress
+COH00223,CRS0016,Python Developer #01 2024-08,2024-08-01,2025-03-06,Марк Василенко,Offline,23,0,Cancelled
+COH00224,CRS0016,Python Developer #02 2024-10,2024-10-10,2025-05-15,Марк Василенко,Offline,23,22,Completed
+COH00225,CRS0016,Python Developer #03 2024-12,2024-12-19,2025-07-24,Марк Василенко,Offline,23,37,Completed
+COH00226,CRS0016,Python Developer #04 2025-02,2025-02-27,2025-10-02,Марк Василенко,Offline,23,44,Completed
+COH00227,CRS0016,Python Developer #05 2025-05,2025-05-08,2025-12-11,Марк Василенко,Offline,23,58,Completed
+COH00228,CRS0016,Python Developer #06 2025-07,2025-07-17,2026-02-19,Марк Василенко,Offline,23,23,In Progress
+COH00229,CRS0016,Python Developer #07 2025-09,2025-09-25,2026-04-30,Марк Василенко,Offline,23,30,In Progress
+COH00230,CRS0016,Python Developer #08 2025-12,2025-12-04,2026-07-09,Марк Василенко,Offline,23,84,In Progress
+COH00231,CRS0017,QA Engineer #01 2024-01,2024-01-20,2024-07-06,Галактион Аверченко,Hybrid,114,2,Completed
+COH00232,CRS0017,QA Engineer #02 2024-03,2024-03-23,2024-09-07,Галактион Аверченко,Hybrid,114,48,Completed
+COH00233,CRS0017,QA Engineer #03 2024-05,2024-05-25,2024-11-09,Галактион Аверченко,Hybrid,114,50,Completed
+COH00234,CRS0017,QA Engineer #04 2024-07,2024-07-27,2025-01-11,Галактион Аверченко,Hybrid,114,35,Completed
+COH00235,CRS0017,QA Engineer #05 2024-09,2024-09-28,2025-03-15,Галактион Аверченко,Hybrid,114,29,Completed
+COH00236,CRS0017,QA Engineer #06 2024-11,2024-11-30,2025-05-17,Галактион Аверченко,Hybrid,114,50,Completed
+COH00237,CRS0017,QA Engineer #07 2025-02,2025-02-01,2025-07-19,Галактион Аверченко,Hybrid,114,42,Completed
+COH00238,CRS0017,QA Engineer #08 2025-04,2025-04-05,2025-09-20,Галактион Аверченко,Hybrid,114,47,Completed
+COH00239,CRS0017,QA Engineer #09 2025-06,2025-06-07,2025-11-22,Галактион Аверченко,Hybrid,114,33,Completed
+COH00240,CRS0017,QA Engineer #10 2025-08,2025-08-09,2026-01-24,Галактион Аверченко,Hybrid,114,22,In Progress
+COH00241,CRS0017,QA Engineer #11 2025-10,2025-10-11,2026-03-28,Галактион Аверченко,Hybrid,114,30,In Progress
+COH00242,CRS0017,QA Engineer #12 2025-12,2025-12-13,2026-05-30,Галактион Аверченко,Hybrid,114,76,In Progress

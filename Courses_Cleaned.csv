@@ -1,0 +1,18 @@
+CourseID,CourseName,CourseCategory,DeliveryFormat,DifficultyLevel,DurationWeeks,BasePrice,BaseCurrency,Language,LaunchDate,IsActive,TeacherName,PlannedSeats,VariableCostPerStudent,CoursePopularitySegment
+CRS0001,AI Automation,AI Automation,Hybrid,Intermediate,12,37600.0,UAH,UA,2021-09-29,True,Tadeusz Мельникова,50,6768.0,Popular
+CRS0002,Data Analytics,Data Analytics,Offline,Advanced,9,36800.0,UAH,UA,2023-02-11,True,Андрій Михалюк,59,6624.0,Standard
+CRS0003,DevOps,DevOps,Offline,Intermediate,21,52400.0,UAH,UA,2024-07-05,True,Julian Негода,117,9432.0,Popular
+CRS0004,Excel,Excel,Offline,Beginner,13,8700.0,UAH,UA,2024-03-28,True,Аліна Andryszczyk,77,1566.0,Standard
+CRS0005,Front-End,Front-End,Online,Beginner,6,28600.0,UAH,UA,2023-05-11,True,Фирс Кононов,26,5148.0,Flagship
+CRS0006,FullStack Java,Full Stack,Online,Intermediate,10,38100.0,UAH,UA,2023-03-30,True,Donna Tabak,25,6858.0,Standard
+CRS0007,FullStack Python,Full Stack,Online,Advanced,27,42100.0,UAH,UA,2022-12-27,True,Bailey Волков,61,7578.0,Niche
+CRS0008,IT Start (Free),Introductory,Online,Beginner,3,0.0,UAH,UA,2023-01-05,True,Andrew Ершов,108,194.31,Flagship
+CRS0009,Java,Java,Hybrid,Intermediate,30,36700.0,UAH,UA,2024-03-27,True,Давид Абрагамовська,39,6606.0,Niche
+CRS0010,Python,Python,Offline,Intermediate,29,28100.0,UAH,UA,2022-09-29,True,Варфоломей Арсенич,103,5058.0,Standard
+CRS0011,QA Automation,QA,Hybrid,Beginner,13,27500.0,UAH,UA,2021-01-02,True,Aurelia Ващенко,79,4950.0,Standard
+CRS0012,QA,QA,Online,Beginner,23,32400.0,UAH,UA,2022-01-26,True,Mariusz Турова,71,5832.0,Flagship
+CRS0013,Web Design,Front-End,Online,Beginner,10,26000.0,UAH,UA,2023-05-28,True,Клавдія Смик,91,4680.0,Standard
+CRS0014,AI Automation Bundle,AI Automation,Online,Beginner,16,21600.0,UAH,UA,2021-02-09,True,Curtis Їжак,54,3888.0,Flagship
+CRS0015,Data Analytics (Free Intro),Data Analytics,Online,Advanced,3,0.0,UAH,UA,2022-02-19,True,Michał Haas,85,106.62,Flagship
+CRS0016,Python Developer,Python,Offline,Beginner,31,29200.0,UAH,UA,2024-07-19,True,Марк Василенко,23,5256.0,Standard
+CRS0017,QA Engineer,QA,Hybrid,Intermediate,24,27900.0,UAH,UA,2021-08-02,True,Галактион Аверченко,114,5022.0,Standard
