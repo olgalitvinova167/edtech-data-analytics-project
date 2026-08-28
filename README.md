@@ -38,43 +38,17 @@ The project uses nine operational datasets. Canonical IDs such as
 fields.
 
   -----------------------------------------------------------------------
-  Dataset                             Grain / Business Role
-  ----------------------------------- -----------------------------------
-  `Managers`                          One row per sales manager; manager
-                                      profile, employment dates, and
-                                      sales targets
-
-  `Courses`                           One row per course; canonical
-                                      course information and pricing
-
-  `Leads`                             One row per CRM lead after
-                                      cleaning; lead source, campaign,
-                                      contact, status, attribution, and
-                                      sales information
-
-  `MarketingSpend`                    Daily × source × campaign × country
-                                      × device; advertising spend,
-                                      impressions, and clicks
-
-  `Payments`                          One row per payment transaction;
-                                      revenue, refunds, installments,
-                                      payment status, and currency
-                                      information
-
-  `Enrollments`                       One row per enrollment; student,
-                                      course, cohort, enrollment status,
-                                      and completion information
-
-  `StudentActivity`                   One row per
-                                      student--enrollment--week; LMS
-                                      engagement and learning activity
-
-  `ExchangeRates`                     Daily × currency; FX rates used to
-                                      convert financial values to UAH
-
-  `Cohorts`                           One row per cohort; course
-                                      schedule, capacity, and
-                                      cohort-level information
+| Dataset | Grain / Business Role |
+|---|---|
+| `Managers` | One row per sales manager; manager profile, employment dates, and sales targets |
+| `Courses` | One row per course; canonical course information and pricing |
+| `Leads` | One row per CRM lead after cleaning; lead source, campaign, contact, status, attribution, and sales information |
+| `MarketingSpend` | Daily × source × campaign × country × device; advertising spend, impressions, and clicks |
+| `Payments` | One row per payment transaction; revenue, refunds, installments, payment status, and currency information |
+| `Enrollments` | One row per enrollment; student, course, cohort, enrollment status, and completion information |
+| `StudentActivity` | One row per student–enrollment–week; LMS engagement and learning activity |
+| `ExchangeRates` | Daily × currency; FX rates used to convert financial values to UAH |
+| `Cohorts` | One row per cohort; course schedule, capacity, and cohort-level information |
   -----------------------------------------------------------------------
 
 ## 4. Data Cleaning and Preparation
@@ -106,17 +80,17 @@ available evidence.
 
 The final datasets exported from the Python cleaning workflow contain:
 
-  Dataset                           Final Rows
-  ------------------------------- ------------
-  `Managers_Cleaned.csv`                     8
-  `Courses_Cleaned.csv`                     17
-  `Leads_Cleaned.csv`                   51,021
-  `MarketingSpend_Cleaned.csv`          13,889
-  `Payments_Cleaned.csv`                17,100
-  `Enrollments_Cleaned.csv`             12,161
-  `StudentActivity_Cleaned.csv`        111,074
-  `ExchangeRates_Cleaned.csv`            3,644
-  `Cohorts_Cleaned.csv`                    242
+| Dataset | Final Rows |
+|---|---:|
+| `Managers_Cleaned.csv` | 8 |
+| `Courses_Cleaned.csv` | 17 |
+| `Leads_Cleaned.csv` | 51,021 |
+| `MarketingSpend_Cleaned.csv` | 13,889 |
+| `Payments_Cleaned.csv` | 17,100 |
+| `Enrollments_Cleaned.csv` | 12,161 |
+| `StudentActivity_Cleaned.csv` | 111,074 |
+| `ExchangeRates_Cleaned.csv` | 3,644 |
+| `Cohorts_Cleaned.csv` | 242 |
 
 The final datasets have unique required primary or natural keys and no
 orphan records across the validated canonical relationships.
