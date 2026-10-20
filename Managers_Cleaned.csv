@@ -1,0 +1,9 @@
+ManagerID,ManagerName,Team,Department,HireDate,TerminationDate,EmploymentStatus,Region,Country,EmploymentType,MonthlySalary,BonusPercent,MonthlySalesTarget,ManagerPerformanceSegment
+MGR0001,Ivan M.,Sales A,Operations,2023-12-27,,Active,Kyiv,Ukraine,Full-time,44500.0,23.0,294000.0,Strong
+MGR0002,Natalia H.,Sales B,Sales,2022-03-05,2024-05-25,Terminated,Lviv,Ukraine,Part-time,74200.0,6.0,268000.0,Top
+MGR0003,Oksana B.,Retention,Customer Success,2022-07-14,,Active,Warsaw,Poland,Part-time,64700.0,17.7,529000.0,Average
+MGR0004,Vasyl F.,Sales A,Sales,2021-05-09,,Active,Berlin,Germany,Contract,64300.0,23.8,381000.0,Strong
+MGR0005,Иларион Д.,Sales B,Sales,2022-05-18,2025-09-13,Terminated,Prague,Czech Republic,Full-time,45100.0,17.6,457000.0,Weak
+MGR0006,John З.,Retention,Customer Success,2023-11-19,,Active,Kyiv,Ukraine,Part-time,49100.0,13.5,380000.0,Weak
+MGR0007,Орест К.,Sales A,Sales,2022-11-09,,Active,Lviv,Ukraine,Contract,48000.0,22.1,506000.0,Average
+MGR0008,Василь Г.,Sales B,Sales,2021-11-15,2024-02-03,Terminated,Warsaw,Poland,Contract,56600.0,22.3,310000.0,Top
